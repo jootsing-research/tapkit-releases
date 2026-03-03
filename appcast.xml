@@ -33,7 +33,7 @@
 
         <item>
             <title>Version 1.0.9</title>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <pubDate>Tue, 03 Mar 2026 05:33:16 +0000</pubDate>
