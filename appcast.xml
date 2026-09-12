@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.90</title>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>1.0.90</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sat, 12 Sep 2026 23:16:13 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.90/TapKit-1.0.90.dmg"
+                sparkle:edSignature="aBhPVvx1uj0w8PVAemFfVubnDlX30L4FuVESBxgS0SnOsxtmHS4PPu7THvKwBXbEruPFSb/UXF9xqqtZeG7kBg=="
+                length="108719356"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>Only USB-connected iPhones are now detected — devices visible over Wi-Fi/network are ignored</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.82</title>
             <sparkle:version>82</sparkle:version>
             <sparkle:shortVersionString>1.0.82</sparkle:shortVersionString>
