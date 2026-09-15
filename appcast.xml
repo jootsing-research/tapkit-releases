@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.93</title>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>1.0.93</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 15 Sep 2026 23:55:56 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.93/TapKit-1.0.93.dmg"
+                sparkle:edSignature="SBFSPspgV5+ECQFuW6mKny5wspGfwKAmEwU1bh/0yCr92jnTF0itpZ8+4f+JJY1jg5nHffTdqAOmfXxMVANFDA=="
+                length="108788325"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>New chat preferences let you set persistent defaults</li><li>Improved chat activity display with visual verification</li><li>Sidebar stability and appearance fixes</li><li>Build and dependency updates</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.90</title>
             <sparkle:version>90</sparkle:version>
             <sparkle:shortVersionString>1.0.90</sparkle:shortVersionString>
