@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.103</title>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.0.103</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 30 Sep 2026 00:22:52 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.103/TapKit-1.0.103.dmg"
+                sparkle:edSignature="i2K3mfLKdJ9svf6y7zA3kl/c0Eg8IURDduYZ1LHBk3z0+gWPjSNa7O2ZcFHD6Y4yYExgvU2Xu8PsWuZk+RA2DA=="
+                length="111990614"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>Updated onboarding pricing copy to $49 per phone per month</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.102</title>
             <sparkle:version>102</sparkle:version>
             <sparkle:shortVersionString>1.0.102</sparkle:shortVersionString>
